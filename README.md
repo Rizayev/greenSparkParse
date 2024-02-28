@@ -1,1 +1,1 @@
-# greenSparkParse
+Парсер для ГринСпарк
